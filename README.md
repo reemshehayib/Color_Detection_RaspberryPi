@@ -1,5 +1,5 @@
 # Color Detection and Object Localization
-This Python script utilizes the Raspberry Pi, a camera, and color detection to determine the position and ratio of colored objects in real-time. The script is designed to work with colors such as Red, Green, Blue, and Black.
+This Python script utilizes the Raspberry Pi, a camera, and color detection to determine the position and ratio of colored objects in real-time. The script is designed to work with colors such as Red, Green, Blue, and Black. This work was applied in an embedded system project where a rover sequentially detects colors as required.
 
 ## Prerequisites
 Hardware Setup:  
